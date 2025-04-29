@@ -1,0 +1,9 @@
+<script src="https://cdn.example.com/jquery.min.js"></script>
+<script>
+  if (!window.jQuery) {
+    document.write('<script src="/local/js/jquery.min.js"><\/script>');
+  }
+</script>
+
+
+<link href="https://cdn.example.com/bootstrap.min.css" rel="stylesheet" onerror="this.onerror=null;this.href='/local/css/bootstrap.min.css';" />

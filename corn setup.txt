@@ -1,0 +1,168 @@
+Cron Job Setup
+Set up a cron job to run the send_abandoned_cart_reminders.php script periodically (e.g., every hour).
+
+Access Your Server:
+
+Log in via SSH.
+
+Edit the Crontab:
+
+Run:
+crontab -e
+
+
+Add the Cron Job:
+
+Add this line to run the script every hour:
+0 * * * * /usr/bin/php /path/to/your/project/send_abandoned_cart_reminders.php
+
+
+Save and Exit:
+
+Save the file and exit the editor.
+
+
+
+Core Workflow Explanation
+1. Product Setup
+
+Create products in /inventory/products/add_edit.php
+
+Add variants in /inventory/products/variants.php
+
+Generate barcodes in /inventory/products/barcodes.php
+
+2. Warehouse Setup
+
+Add warehouses in /inventory/warehouses/add_edit.php
+
+View all warehouses in /inventory/warehouses/index.php
+
+Check specific warehouse stock in /inventory/warehouses/stock.php?id=X
+
+3. Stock Operations
+
+Purchases: /inventory/purchases/add_edit.php
+
+Receive goods into warehouses
+
+Automatically updates warehouse stock
+
+Adjustments: /inventory/stock/adjustments.php
+
+Manual stock corrections
+
+Transfers: /inventory/stock/transfers.php
+
+Move stock between warehouses
+
+Movements: /inventory/stock/movements.php
+
+View all stock changes
+
+4. Monitoring
+
+Alerts: /inventory/alerts/index.php
+
+Low stock warnings
+
+Overstock notifications
+
+Reports: /inventory/reports/stock_movements.php
+
+Inventory valuation
+
+Movement history
+
+4. Why stock.php is in Warehouses?
+This file shows warehouse-specific stock details:
+
+Current quantities for each product/variant
+
+Movement history specific to that warehouse
+
+Quick adjustment capabilities
+
+
+
+
+
+
+
+
+Changes
+
+1-Front End
+
+you have to fix frequently bought together
+product_details.php
+recommendations.php
+update_recommendations.php
+frequently_bought.php
+
+
+
+
+Ready to transfer:
+about.php
+terms.php
+return-refund-policy.php
+privacy policy.php
+
+
+
+2-Backend: 
+you have to fix Inventory Folder products and quantities control per transaction
+unify products and sending alerts
+
+connect_facebook.php
+instagram.php
+social_media.php
+fb_callback.php
+save_settings.php
+sync_product.php
+fb_webhook.php
+
+
+
+
+
+Ready to transfer:
+order_details.php
+purchase_orders.php
+po_add_edit.php
+po_view.php
+warehouses.php
+stock.php
+inventory_dashboard.php
+include sidebar.php
+admin_login.php
+priviliges.php
+movements.php
+get_product_variants.php
+includes: function.php
+adjustments.php
+transfer.php
+export movements.php
+iventory_alerts.php
+alert_settings.php
+
+3- Database structure update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
