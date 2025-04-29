@@ -1,0 +1,4499 @@
+2025-04-03 17:03:43 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:03:43 - 3 - Connection: opened
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: MAIL FROM:<>
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: RCPT TO:<albara.bitar@gmail.com>
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:03:43 +0000
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: To: albara.bitar@gmail.com
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: From: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Message-ID: <BYIZPk9nJmVxuBTSI8Tq6zynzJRBjNxo0pSvu2nKY4@advancedpromedia.net>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:  boundary="b1=_BYIZPk9nJmVxuBTSI8Tq6zynzJRBjNxo0pSvu2nKY4"
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: --b1=_BYIZPk9nJmVxuBTSI8Tq6zynzJRBjNxo0pSvu2nKY4
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: --b1=_BYIZPk9nJmVxuBTSI8Tq6zynzJRBjNxo0pSvu2nKY4
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: --b1=_BYIZPk9nJmVxuBTSI8Tq6zynzJRBjNxo0pSvu2nKY4--
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7Nv4Txcz5ZBhQ
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:03:43 - 3 - Connection: closed
+2025-04-03 17:03:43 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:03:43 - 3 - Connection: opened
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:03:43 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:03:43 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: MAIL FROM:<>
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: RCPT TO:<john.doe@example.com>
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:03:43 +0000
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: To: john.doe@example.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: From: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Message-ID: <vUaE9XcBCy47o3sdv9qvbRrXlF2eRQY96eaNoP9pOw@advancedpromedia.net>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:  boundary="b1=_vUaE9XcBCy47o3sdv9qvbRrXlF2eRQY96eaNoP9pOw"
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_vUaE9XcBCy47o3sdv9qvbRrXlF2eRQY96eaNoP9pOw
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_vUaE9XcBCy47o3sdv9qvbRrXlF2eRQY96eaNoP9pOw
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_vUaE9XcBCy47o3sdv9qvbRrXlF2eRQY96eaNoP9pOw--
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7Nw0MkVz35BGl
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:03:44 - 3 - Connection: closed
+2025-04-03 17:03:44 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:03:44 - 3 - Connection: opened
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: MAIL FROM:<>
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: RCPT TO:<info@ssproviders.com>
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:03:44 +0000
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: To: info@ssproviders.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: From: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Message-ID: <1xZIAMnHOGTf7kNjqMfOxNudQ21PpKpE9THp4rsc7E@advancedpromedia.net>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:  boundary="b1=_1xZIAMnHOGTf7kNjqMfOxNudQ21PpKpE9THp4rsc7E"
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_1xZIAMnHOGTf7kNjqMfOxNudQ21PpKpE9THp4rsc7E
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_1xZIAMnHOGTf7kNjqMfOxNudQ21PpKpE9THp4rsc7E
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_1xZIAMnHOGTf7kNjqMfOxNudQ21PpKpE9THp4rsc7E--
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7Nw30dqzH9gKm
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:03:44 - 3 - Connection: closed
+2025-04-03 17:03:44 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:03:44 - 3 - Connection: opened
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: MAIL FROM:<>
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: RCPT TO:<info@advancedpromedia.com>
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:03:44 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:03:44 +0000
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: To: info@advancedpromedia.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: From: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Message-ID: <0uZnWPoAIzMBaMNnXOQDLvmtB1NOoK1vnFNuZQwvIRI@advancedpromedia.net>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:  boundary="b1=_0uZnWPoAIzMBaMNnXOQDLvmtB1NOoK1vnFNuZQwvIRI"
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_0uZnWPoAIzMBaMNnXOQDLvmtB1NOoK1vnFNuZQwvIRI
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_0uZnWPoAIzMBaMNnXOQDLvmtB1NOoK1vnFNuZQwvIRI
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: --b1=_0uZnWPoAIzMBaMNnXOQDLvmtB1NOoK1vnFNuZQwvIRI--
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:44 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7Nw6PMVzH9gKq
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:03:45 - 3 - Connection: closed
+2025-04-03 17:03:45 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:03:45 - 3 - Connection: opened
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: MAIL FROM:<>
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: RCPT TO:<mario@ma.com>
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:03:45 +0000
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: To: mario@ma.com
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: From: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Message-ID: <cnweJjSr4L5stJrZtuT1PCbm2IQ7CBYyYzGzpvEw@advancedpromedia.net>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:  boundary="b1=_cnweJjSr4L5stJrZtuT1PCbm2IQ7CBYyYzGzpvEw"
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: --b1=_cnweJjSr4L5stJrZtuT1PCbm2IQ7CBYyYzGzpvEw
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: --b1=_cnweJjSr4L5stJrZtuT1PCbm2IQ7CBYyYzGzpvEw
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: --b1=_cnweJjSr4L5stJrZtuT1PCbm2IQ7CBYyYzGzpvEw--
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7Nx3MVszH9gKD
+
+2025-04-03 17:03:45 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:03:45 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:03:45 - 3 - Connection: closed
+2025-04-03 17:03:45 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:03:46 - 3 - Connection: opened
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: MAIL FROM:<>
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: RCPT TO:<malmo@malmo.com>
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:03:45 +0000
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: To: malmo@malmo.com
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: From: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Message-ID: <lxcTD9TOJB9GDU00wUAdgTcRmhfcM5BSDmaT4fgw@advancedpromedia.net>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:  boundary="b1=_lxcTD9TOJB9GDU00wUAdgTcRmhfcM5BSDmaT4fgw"
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: --b1=_lxcTD9TOJB9GDU00wUAdgTcRmhfcM5BSDmaT4fgw
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: --b1=_lxcTD9TOJB9GDU00wUAdgTcRmhfcM5BSDmaT4fgw
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: --b1=_lxcTD9TOJB9GDU00wUAdgTcRmhfcM5BSDmaT4fgw--
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7Ny1RLPz5ZBl2
+
+2025-04-03 17:03:46 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:03:46 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:03:46 - 3 - Connection: closed
+2025-04-03 17:14:24 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:14:24 - 3 - Connection: opened
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: RCPT TO:<albara.bitar@gmail.com>
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:14:24 +0000
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: To: albara.bitar@gmail.com
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Message-ID: <c8rrJdmqnS1yPvEpt0rpoWpDkJR9ojNolmj50gcU@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:  boundary="b1=_c8rrJdmqnS1yPvEpt0rpoWpDkJR9ojNolmj50gcU"
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: --b1=_c8rrJdmqnS1yPvEpt0rpoWpDkJR9ojNolmj50gcU
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: --b1=_c8rrJdmqnS1yPvEpt0rpoWpDkJR9ojNolmj50gcU
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: --b1=_c8rrJdmqnS1yPvEpt0rpoWpDkJR9ojNolmj50gcU--
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7dD3KrtzH9gKD
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:14:24 - 3 - Connection: closed
+2025-04-03 17:14:24 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:14:24 - 3 - Connection: opened
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: RCPT TO:<john.doe@example.com>
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:14:24 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:14:24 +0000
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: To: john.doe@example.com
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Message-ID: <jHQR3swSwuOknZsAUNQf3hYDrYm71qCyg1g7qrM@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:  boundary="b1=_jHQR3swSwuOknZsAUNQf3hYDrYm71qCyg1g7qrM"
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: --b1=_jHQR3swSwuOknZsAUNQf3hYDrYm71qCyg1g7qrM
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: --b1=_jHQR3swSwuOknZsAUNQf3hYDrYm71qCyg1g7qrM
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: --b1=_jHQR3swSwuOknZsAUNQf3hYDrYm71qCyg1g7qrM--
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:24 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7dD6gT1zH9gKX
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:14:25 - 3 - Connection: closed
+2025-04-03 17:14:25 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:14:25 - 3 - Connection: opened
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: RCPT TO:<info@ssproviders.com>
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:14:25 +0000
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: To: info@ssproviders.com
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Message-ID: <JVKcI9jYOyzoAMQU7V5i07XACFzT6vhRwXzIzRqukQ@advancedpromedia.net>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:  boundary="b1=_JVKcI9jYOyzoAMQU7V5i07XACFzT6vhRwXzIzRqukQ"
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: --b1=_JVKcI9jYOyzoAMQU7V5i07XACFzT6vhRwXzIzRqukQ
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: --b1=_JVKcI9jYOyzoAMQU7V5i07XACFzT6vhRwXzIzRqukQ
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: --b1=_JVKcI9jYOyzoAMQU7V5i07XACFzT6vhRwXzIzRqukQ--
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7dF3PgGz5ZBl4
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:14:25 - 3 - Connection: closed
+2025-04-03 17:14:25 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:14:25 - 3 - Connection: opened
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: RCPT TO:<info@advancedpromedia.com>
+
+2025-04-03 17:14:25 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:14:25 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:14:25 +0000
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: To: info@advancedpromedia.com
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Message-ID: <aohYUMKufyqfE2i2WVmLiH8DLkgy1O9o2ITjOiEUU@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:  boundary="b1=_aohYUMKufyqfE2i2WVmLiH8DLkgy1O9o2ITjOiEUU"
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: --b1=_aohYUMKufyqfE2i2WVmLiH8DLkgy1O9o2ITjOiEUU
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: --b1=_aohYUMKufyqfE2i2WVmLiH8DLkgy1O9o2ITjOiEUU
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: --b1=_aohYUMKufyqfE2i2WVmLiH8DLkgy1O9o2ITjOiEUU--
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7dF6zybz5Z5mX
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:14:26 - 3 - Connection: closed
+2025-04-03 17:14:26 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:14:26 - 3 - Connection: opened
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: RCPT TO:<mario@ma.com>
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:14:26 +0000
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: To: mario@ma.com
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Message-ID: <ewjvokz1uSaIvWf52ICGEVGUNCWdB1rHJw6lESuQjp8@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:  boundary="b1=_ewjvokz1uSaIvWf52ICGEVGUNCWdB1rHJw6lESuQjp8"
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: --b1=_ewjvokz1uSaIvWf52ICGEVGUNCWdB1rHJw6lESuQjp8
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: --b1=_ewjvokz1uSaIvWf52ICGEVGUNCWdB1rHJw6lESuQjp8
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: --b1=_ewjvokz1uSaIvWf52ICGEVGUNCWdB1rHJw6lESuQjp8--
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7dG3RZgzH9gK0
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:14:26 - 3 - Connection: closed
+2025-04-03 17:14:26 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:14:26 - 3 - Connection: opened
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:14:26 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:14:26 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: RCPT TO:<malmo@malmo.com>
+
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:14:26 +0000
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: To: malmo@malmo.com
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Message-ID: <z30cIfQDKQAD7VjwJIej3pMS9GwtatO5mpmSFOJOE@advancedpromedia.net>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:  boundary="b1=_z30cIfQDKQAD7VjwJIej3pMS9GwtatO5mpmSFOJOE"
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: --b1=_z30cIfQDKQAD7VjwJIej3pMS9GwtatO5mpmSFOJOE
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Valid until: April 30, 2025
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: --b1=_z30cIfQDKQAD7VjwJIej3pMS9GwtatO5mpmSFOJOE
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=us-ascii
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <p><strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: --b1=_z30cIfQDKQAD7VjwJIej3pMS9GwtatO5mpmSFOJOE--
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7dH0dbHzH9gKg
+
+2025-04-03 17:14:27 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:14:27 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:14:27 - 3 - Connection: closed
+2025-04-03 17:24:21 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:21 - 3 - Connection: opened
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: RCPT TO:<albara.bitar@gmail.com>
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:21 +0000
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: To: albara.bitar@gmail.com
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Message-ID: <QGZfBVDL8sWemaBCFsvYvJTycJOU1GRIsRfaoArzQ@advancedpromedia.net>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:  boundary="b1=_QGZfBVDL8sWemaBCFsvYvJTycJOU1GRIsRfaoArzQ"
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: --b1=_QGZfBVDL8sWemaBCFsvYvJTycJOU1GRIsRfaoArzQ
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: --b1=_QGZfBVDL8sWemaBCFsvYvJTycJOU1GRIsRfaoArzQ
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: --b1=_QGZfBVDL8sWemaBCFsvYvJTycJOU1GRIsRfaoArzQ--
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rj3YSbzH9gKV
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:21 - 3 - Connection: closed
+2025-04-03 17:24:21 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:21 - 3 - Connection: opened
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:21 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:21 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: RCPT TO:<lebanonssp@gmail.com>
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:21 +0000
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: To: lebanonssp@gmail.com
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Message-ID: <PrOIbX82p4lTXvsRHuVZw9FUBnlqdUvn75c6vjQTdV8@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:  boundary="b1=_PrOIbX82p4lTXvsRHuVZw9FUBnlqdUvn75c6vjQTdV8"
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: --b1=_PrOIbX82p4lTXvsRHuVZw9FUBnlqdUvn75c6vjQTdV8
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: --b1=_PrOIbX82p4lTXvsRHuVZw9FUBnlqdUvn75c6vjQTdV8
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: --b1=_PrOIbX82p4lTXvsRHuVZw9FUBnlqdUvn75c6vjQTdV8--
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rk09pbzH9gKq
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:22 - 3 - Connection: closed
+2025-04-03 17:24:22 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:22 - 3 - Connection: opened
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: RCPT TO:<john.doe@example.com>
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:22 +0000
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: To: john.doe@example.com
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Message-ID: <aDaSJ36Qm6PhXQ5bzZbjXQb09wM25so6DQrTMXHTg@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:  boundary="b1=_aDaSJ36Qm6PhXQ5bzZbjXQb09wM25so6DQrTMXHTg"
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: --b1=_aDaSJ36Qm6PhXQ5bzZbjXQb09wM25so6DQrTMXHTg
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: --b1=_aDaSJ36Qm6PhXQ5bzZbjXQb09wM25so6DQrTMXHTg
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: --b1=_aDaSJ36Qm6PhXQ5bzZbjXQb09wM25so6DQrTMXHTg--
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rk3yssz5Z5mb
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:22 - 3 - Connection: closed
+2025-04-03 17:24:22 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:22 - 3 - Connection: opened
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:22 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:22 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: RCPT TO:<info@ssproviders.com>
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:22 +0000
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: To: info@ssproviders.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Message-ID: <VB5xiMLdrIr5HVKZnh56k62MDNKcNwwha9GjCymgM@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:  boundary="b1=_VB5xiMLdrIr5HVKZnh56k62MDNKcNwwha9GjCymgM"
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_VB5xiMLdrIr5HVKZnh56k62MDNKcNwwha9GjCymgM
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_VB5xiMLdrIr5HVKZnh56k62MDNKcNwwha9GjCymgM
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_VB5xiMLdrIr5HVKZnh56k62MDNKcNwwha9GjCymgM--
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rl0HqFz35BGh
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:23 - 3 - Connection: closed
+2025-04-03 17:24:23 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:23 - 3 - Connection: opened
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: RCPT TO:<info@advancedpromedia.com>
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:23 +0000
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: To: info@advancedpromedia.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Message-ID: <jw3eEOgjLoHe0bgd71Xm8uIa1FfrII1mZf8N7LJBU@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:  boundary="b1=_jw3eEOgjLoHe0bgd71Xm8uIa1FfrII1mZf8N7LJBU"
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_jw3eEOgjLoHe0bgd71Xm8uIa1FfrII1mZf8N7LJBU
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_jw3eEOgjLoHe0bgd71Xm8uIa1FfrII1mZf8N7LJBU
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_jw3eEOgjLoHe0bgd71Xm8uIa1FfrII1mZf8N7LJBU--
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rl3YW7z35BH4
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:23 - 3 - Connection: closed
+2025-04-03 17:24:23 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:23 - 3 - Connection: opened
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: RCPT TO:<mario@ma.com>
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:23 +0000
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: To: mario@ma.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Message-ID: <ohgOzttxeAsQoVd4TZoh8Pbw0XdJBcJS73jXQQFQzY@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:  boundary="b1=_ohgOzttxeAsQoVd4TZoh8Pbw0XdJBcJS73jXQQFQzY"
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_ohgOzttxeAsQoVd4TZoh8Pbw0XdJBcJS73jXQQFQzY
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_ohgOzttxeAsQoVd4TZoh8Pbw0XdJBcJS73jXQQFQzY
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: --b1=_ohgOzttxeAsQoVd4TZoh8Pbw0XdJBcJS73jXQQFQzY--
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rl5rLyz35BHC
+
+2025-04-03 17:24:23 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:23 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:23 - 3 - Connection: closed
+2025-04-03 17:24:23 - 3 - Connection: opening to ssl://smtp.hostinger.com:465, timeout=300, options=array()
+2025-04-03 17:24:24 - 3 - Connection: opened
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: EHLO advancedpromedia.net
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: AUTH LOGIN
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: [credentials hidden]
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: MAIL FROM:<promotions@advancedpromedia.net>
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 250 2.1.0 Ok
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: RCPT TO:<malmo@malmo.com>
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 250 2.1.5 Ok
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: DATA
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Date: Thu, 3 Apr 2025 17:24:23 +0000
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: To: malmo@malmo.com
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: From: Advanced Promedia <promotions@advancedpromedia.net>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Reply-To: Customer Support <info@advancedpromedia.com>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Subject: Eid Mubarak
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Message-ID: <f640zjcd5leWU3F1bGgLhFs9S3EGNakRYnCGgnr3iQ@advancedpromedia.net>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: X-Originating-IP: 212.107.17.89
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Precedence: bulk
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: List-Unsubscribe: <mailto:unsubscribe@advancedpromedia.net>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: MIME-Version: 1.0
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:  boundary="b1=_f640zjcd5leWU3F1bGgLhFs9S3EGNakRYnCGgnr3iQ"
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: --b1=_f640zjcd5leWU3F1bGgLhFs9S3EGNakRYnCGgnr3iQ
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     Eid Mubarak
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Eid Mubarak
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         Dear Customer
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:          Dear Customer
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:          🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             No special codes needed—just shop and save! This offer is Valid until: April 30, 2025
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             so don’t miss your chance to grab amazing deals!
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             View Our Promotions
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Advanced Promedia
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Phone: +971552969432
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Email: info@advancedpromedia.com
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Internet City, Dubai, United Arab Emirates
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: --b1=_f640zjcd5leWU3F1bGgLhFs9S3EGNakRYnCGgnr3iQ
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: <!DOCTYPE html>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: <html>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: <head>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     <title>Eid Mubarak</title>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     <style type="text/css">
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .header { background-color: #f8f8f8; padding: 20px; text-align: center; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .content { padding: 20px; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         .footer { margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #777; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         a { color: #0066cc; }
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     </style>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: </head>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: <body>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     <div class="container">
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         <div class="header">
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <h2>Eid Mubarak</h2>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         <div class="content">
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         <p>Dear Customer</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:          <p>Dear Customer</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:          <p>🎉 Big Savings Alert! Our Exclusive Offer is Here! 🎉</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             Special 10 % discount on selected items
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p>No special codes needed—just shop and save! This offer is <strong>Valid until:</strong> April 30, 2025</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p>so don’t miss your chance to grab amazing deals!</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p><a href="https://advancedpromedia.net/promotions.php" class="button">View Our Promotions</a></p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:                 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         <div class="footer">
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p><img src="https://advancedpromedia.net/admin/uploads/logo.png" alt="Advanced Promedia" style="max-width:150px;"></p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p>Advanced Promedia</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p>Phone: +971552969432</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p>Email: <a href="mailto:info@advancedpromedia.com">info@advancedpromedia.com</a></p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:             <p>Internet City, Dubai, United Arab Emirates</p>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:         </div>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER:     </div>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: </body>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: </html>
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: --b1=_f640zjcd5leWU3F1bGgLhFs9S3EGNakRYnCGgnr3iQ--
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: 
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: .
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ZT7rm1jBkz5Z5mc
+
+2025-04-03 17:24:24 - 1 - CLIENT -> SERVER: QUIT
+
+2025-04-03 17:24:24 - 2 - SERVER -> CLIENT: 221 2.0.0 Bye
+
+2025-04-03 17:24:24 - 3 - Connection: closed

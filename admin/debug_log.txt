@@ -1,0 +1,1166 @@
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 06:59:32] Session started. Role: admin
+[2025-04-14 06:59:32] Database connected.
+[2025-04-14 06:59:32] validateSession: Session valid.
+[2025-04-14 07:01:42] Session started. Role: Not set
+[2025-04-14 07:01:42] Database connected.
+[2025-04-14 07:01:42] Accessed admin_login.php
+[2025-04-14 07:01:53] Session started. Role: Not set
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] Attempting login for: admin
+[2025-04-14 07:01:53] Login success for user ID: 2 Role: admin
+[2025-04-14 07:01:53] Login form success. Redirecting to dashboard.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_login.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:53] Already logged in as admin, redirecting.
+[2025-04-14 07:01:53] Session started. Role: admin
+[2025-04-14 07:01:53] Database connected.
+[2025-04-14 07:01:53] Accessed admin_dashboard.php
+[2025-04-14 07:01:53] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_dashboard.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Session started. Role: admin
+[2025-04-14 07:01:54] Database connected.
+[2025-04-14 07:01:54] Accessed admin_login.php
+[2025-04-14 07:01:54] validateSession: Session valid.
+[2025-04-14 07:01:54] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_login.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:00] Already logged in as admin, redirecting.
+[2025-04-14 07:02:00] Session started. Role: admin
+[2025-04-14 07:02:00] Database connected.
+[2025-04-14 07:02:00] Accessed admin_dashboard.php
+[2025-04-14 07:02:00] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_dashboard.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Session started. Role: admin
+[2025-04-14 07:02:30] Database connected.
+[2025-04-14 07:02:30] Accessed admin_login.php
+[2025-04-14 07:02:30] validateSession: Session valid.
+[2025-04-14 07:02:30] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_login.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:03:31] Already logged in as admin, redirecting.
+[2025-04-14 07:03:31] Session started. Role: admin
+[2025-04-14 07:03:31] Database connected.
+[2025-04-14 07:03:31] Accessed admin_dashboard.php
+[2025-04-14 07:03:31] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_dashboard.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Session started. Role: admin
+[2025-04-14 07:07:06] Database connected.
+[2025-04-14 07:07:06] Accessed admin_login.php
+[2025-04-14 07:07:06] validateSession: Session valid.
+[2025-04-14 07:07:06] Already logged in as admin, redirecting.
+[2025-04-14 07:07:08] Session started. Role: admin
+[2025-04-14 07:07:08] Database connected.
+[2025-04-14 07:07:08] Accessed admin_login.php
+[2025-04-14 07:07:08] validateSession: Session valid.
+[2025-04-14 07:07:08] Already logged in as admin, redirecting.
+[2025-04-14 07:07:08] Session started. Role: admin
+[2025-04-14 07:07:08] Database connected.
+[2025-04-14 07:07:08] Accessed admin_dashboard.php
+[2025-04-14 07:07:08] validateSession: Session valid.
+[2025-04-14 07:07:08] Session started. Role: admin
+[2025-04-14 07:07:08] Database connected.
+[2025-04-14 07:07:08] Accessed admin_login.php
+[2025-04-14 07:07:08] validateSession: Session valid.
+[2025-04-14 07:07:08] Already logged in as admin, redirecting.
+[2025-04-14 07:07:08] Session started. Role: admin
+[2025-04-14 07:07:08] Database connected.
+[2025-04-14 07:07:08] Accessed admin_dashboard.php
+[2025-04-14 07:07:08] validateSession: Session valid.
+[2025-04-14 07:07:08] Session started. Role: admin
+[2025-04-14 07:07:08] Database connected.
+[2025-04-14 07:07:08] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_login.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:09] Already logged in as admin, redirecting.
+[2025-04-14 07:07:09] Session started. Role: admin
+[2025-04-14 07:07:09] Database connected.
+[2025-04-14 07:07:09] Accessed admin_dashboard.php
+[2025-04-14 07:07:09] validateSession: Session valid.
+[2025-04-14 07:07:38] Session started. Role: Not set
+[2025-04-14 07:07:38] Database connected.
+[2025-04-14 07:07:38] Accessed admin_login.php
+[2025-04-14 07:07:51] Session started. Role: Not set
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] Attempting login for: admin
+[2025-04-14 07:07:51] Login success for user ID: 2 Role: admin
+[2025-04-14 07:07:51] Login form success. Redirecting to dashboard.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_login.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:51] Already logged in as admin, redirecting.
+[2025-04-14 07:07:51] Session started. Role: admin
+[2025-04-14 07:07:51] Database connected.
+[2025-04-14 07:07:51] Accessed admin_dashboard.php
+[2025-04-14 07:07:51] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_dashboard.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Session started. Role: admin
+[2025-04-14 07:07:52] Database connected.
+[2025-04-14 07:07:52] Accessed admin_login.php
+[2025-04-14 07:07:52] validateSession: Session valid.
+[2025-04-14 07:07:52] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_login.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 07:07:58] Already logged in as admin, redirecting.
+[2025-04-14 07:07:58] Session started. Role: admin
+[2025-04-14 07:07:58] Database connected.
+[2025-04-14 07:07:58] Accessed admin_dashboard.php
+[2025-04-14 07:07:58] validateSession: Session valid.
+[2025-04-14 08:53:03] Session started. Role: admin
+[2025-04-14 08:53:03] Database connected.
+[2025-04-14 08:53:03] Accessed admin_dashboard.php
+[2025-04-14 08:53:03] validateSession: Expired or missing last_activity.
+[2025-04-14 08:53:03] Unauthorized access or invalid session to admin_dashboard, redirecting.
+[2025-04-14 08:53:03] Session started. Role: admin
+[2025-04-14 08:53:03] Database connected.
+[2025-04-14 08:53:03] Accessed admin_login.php
+[2025-04-14 08:53:03] validateSession: Expired or missing last_activity.
+[2025-04-14 12:18:07] Session started. Role: admin
+[2025-04-14 12:18:07] Database connected.
+[2025-04-14 12:18:07] Accessed admin_login.php
+[2025-04-14 12:18:07] validateSession: Expired or missing last_activity.
+[2025-04-14 12:18:07] Attempting login for: admin
+[2025-04-14 12:18:07] Password mismatch for user: admin
+[2025-04-14 12:18:07] Login form failed.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Expired or missing last_activity.
+[2025-04-14 12:18:32] Attempting login for: admin
+[2025-04-14 12:18:32] Login success for user ID: 2 Role: admin
+[2025-04-14 12:18:32] Login form success. Redirecting to dashboard.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_login.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:32] Already logged in as admin, redirecting.
+[2025-04-14 12:18:32] Session started. Role: admin
+[2025-04-14 12:18:32] Database connected.
+[2025-04-14 12:18:32] Accessed admin_dashboard.php
+[2025-04-14 12:18:32] validateSession: Session valid.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_dashboard.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_login.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Already logged in as admin, redirecting.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_dashboard.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_login.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Already logged in as admin, redirecting.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_dashboard.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_login.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Already logged in as admin, redirecting.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_dashboard.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_login.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Already logged in as admin, redirecting.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_dashboard.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_login.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:33] Already logged in as admin, redirecting.
+[2025-04-14 12:18:33] Session started. Role: admin
+[2025-04-14 12:18:33] Database connected.
+[2025-04-14 12:18:33] Accessed admin_dashboard.php
+[2025-04-14 12:18:33] validateSession: Session valid.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_login.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Already logged in as admin, redirecting.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_dashboard.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_login.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Already logged in as admin, redirecting.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_dashboard.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_login.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Already logged in as admin, redirecting.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_dashboard.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_login.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Already logged in as admin, redirecting.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_dashboard.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Session started. Role: admin
+[2025-04-14 12:18:34] Database connected.
+[2025-04-14 12:18:34] Accessed admin_login.php
+[2025-04-14 12:18:34] validateSession: Session valid.
+[2025-04-14 12:18:34] Already logged in as admin, redirecting.
